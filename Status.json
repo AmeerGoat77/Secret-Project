@@ -2,6 +2,7 @@
     "Info":{
         "DiscordInvite":"https://discord.com/invite/weZaZ3MEsW",
         "SwapperVersion":"1.0",
-        "SwapperActive":"true"
+        "SwapperActive":"true",
+        "Manifest":"https://api.nitestats.com/v1/epic/manifest?id=dXFsX1PQhGwQcegbuEC73kjz6X0Zkg"
     }
  }
