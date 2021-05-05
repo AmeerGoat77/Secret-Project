@@ -4,6 +4,7 @@
         "SwapperVersion":"1.0",
         "SwapperActive":"true",
         "Manifest":"https://api.nitestats.com/v1/epic/manifest?id=dXFsX1PQhGwQcegbuEC73kjz6X0Zkg",
-        "Patchnotes":"[+] TBD\n[+] TBD\n[+] TBD\n[+] TBD\n[+] TBD\n"
+        "Patchnotes":"[+] TBD\n[+] TBD\n[+] TBD\n[+] TBD\n[+] TBD\n",
+        "CreditsText":"Created By Wslt#4798 & Tested By subway#9999"
     }
  }
